@@ -41,8 +41,8 @@ Actualmente en **EMOVA MOVILIDAD S.A.**, me especializo en cerrar la brecha entr
 ### 🚀 Proyectos Destacados
 
 #### 🚇 Pipeline de Datos Operativos (Emova)
-ETL de gran escala para la extracción y estructuración de datos de mantenimiento.
-- **Desafío:** Digitalización de calendarios de tareas en estaciones de subte basados en imágenes.
+ETL de gran escala para la extracción y estructuración de datos de mantenimiento y operación.
+- **Desafío:** Digitalización de datos de operaciones de subte.
 - **Solución:** Scripting en Python para parsing de imágenes, limpieza de datos y estructuración en formatos eficientes para análisis en Power BI.
 
 #### 📊 Sistema de Gestión de Asistencia (Migración)
