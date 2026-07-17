@@ -71,11 +71,11 @@ ETL de gran escala para digitalización de datos de mantenimiento y operación: 
 
 #### 🤖 Local AI Lab & Home Server
 
-Infraestructura on-premise para inferencia local (Ollama, ComfyUI) y domótica (Home Assistant + n8n), corriendo en hardware propio (RTX 5070 Ti, mini PCs).
+Infraestructura on-premise para inferencia local (Ollama, ComfyUI) y domótica (Home Assistant), corriendo en hardware propio (RTX 5070 Ti, mini PCs).
 
 ---
 
-### 🔧 Actualmente tinkering with
+### 🔧 Tinkering with
 
 - **🔌 Embedded:** ESP32, pantallas TFT, NFC/RFID, RF (CC1101), 3D printing / FreeCAD
 - **⌨️ Mechanical Keyboards:** formatos 75%/96%, switches Hall Effect, Low Profile
