@@ -9,16 +9,16 @@ Actualmente en **EMOVA MOVILIDAD S.A.** (Subte de Buenos Aires), cierro la brech
 ### 🛠 Tech Stack
 
 **Data Engineering & BI**
-![Power Bi] ![Python] ![Apache Parquet] ![Iceberg] ![DAX] ![PostgreSQL] ![PostGIS]
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Apache Parquet](https://img.shields.io/badge/Parquet-4E9A06?style=for-the-badge&logo=apache&logoColor=white) ![Iceberg](https://img.shields.io/badge/Iceberg-222222?style=for-the-badge&logo=apache&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-Analysis-blue?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-008000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI & Local LLMs**
-![Ollama] ![ComfyUI] ![Cursor] ![Google Antigravity]
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![ComfyUI](https://img.shields.io/badge/ComfyUI-4169E1?style=for-the-badge) ![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge) ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Full Stack Development**
-![Next JS] ![TypeScript] ![Supabase] ![PocketBase] ![Firebase] ![Google Cloud] ![Vercel] ![Azure]
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 **Automation & Infra**
-![Docker] ![n8n] ![Git]
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
