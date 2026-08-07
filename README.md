@@ -1,6 +1,6 @@
 # Hola, soy Esteban 👋
 
-**Cerrando la brecha entre la operación industrial y el software propio · Ingeniero Industrial en EMOVA · Piloto en formación (RAAC 102)**
+**Cerrando la brecha entre la operación industrial y el software propio · Ingeniero Industrial en EMOVA · Piloto de RPA en formación (RAAC 102)**
 
 Trabajo en **EMOVA MOVILIDAD S.A.** desarrollando sistemas de gestión de infraestructura ferroviaria, pipelines de datos operativos e IA local. Me interesa construir herramientas propias que conecten la operación industrial con el software — desde el backend hasta el hardware embebido.
 
